@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "870460bb9ffcc491",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b42d6731f86b05a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c7668618e3dd141",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cursos Ingenieria de Software/Lenguajes y Compiladores/Semana 1/Clase 1/Lenguaje.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lenguaje"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2f13d0dae19168e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "df205d473bed5757",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8336e7585b376193",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "82aee109b7dbf01f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "7058542a1d043088",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f30f2e4bcb0ca7cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "13b87dae4cc0822f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b6622d4fdc3a9d7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Cursos Ingenieria de Software/Lenguajes y Compiladores/Semana 1/Clase 1/Lenguaje.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Lenguaje"
+            }
+          },
+          {
+            "id": "173177c421c5ca47",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Cursos Ingenieria de Software/Lenguajes y Compiladores/Semana 1/Clase 1/Lenguaje.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Lenguaje"
+            }
+          },
+          {
+            "id": "b2bd637811637bb2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "ac08dad7be31c489",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "c4c76cd1323cbe2e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Cursos Ingenieria de Software/Lenguajes y Compiladores/Semana 1/Clase 1/Lenguaje.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Lenguaje"
+            }
+          },
+          {
+            "id": "eadf1df05926f713",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "7c7668618e3dd141",
+  "lastOpenFiles": [
+    "Cursos Ingenieria de Software/Lenguajes y Compiladores/Semana 1/Clase 1/Interprete.md",
+    "Cursos Ingenieria de Software/Lenguajes y Compiladores/Semana 1/Clase 1/Compilador.md",
+    "Cursos Ingenieria de Software/Lenguajes y Compiladores/Semana 1/Clase 1/Lenguaje.md",
+    "Cursos Ingenieria de Software/Lenguajes y Compiladores/Semana 1/Clase 1/Lenguaje de Programacion.md",
+    "Cursos Ingenieria de Software/Lenguajes y Compiladores/Semana 1/Clase 1/Notas.md"
+  ]
+}
